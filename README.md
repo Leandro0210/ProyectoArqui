@@ -54,4 +54,4 @@ El simulador utiliza múltiples hojas de Google Sheets para organizar y represen
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/simulador-x86.git
+   git clone https://github.com/Leandro0210/ProyectoArqui.git
